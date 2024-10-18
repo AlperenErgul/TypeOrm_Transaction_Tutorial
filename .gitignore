@@ -1,5 +1,6 @@
 /docker-local
 /.env
+docker-local
 # compiled output
 /dist
 /node_modules
